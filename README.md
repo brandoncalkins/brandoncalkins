@@ -8,8 +8,8 @@ Hello and welcome to my GitHub. I have organized my projects in this repo to hig
 - [Copyediting at Epsilon](#copyediting-at-epsilon)
 - [Link 2](#link2)
 
-- ## Copyediting at Epsilon
-- My role at Epsilon 
+## Copyediting at Epsilon
+My role at Epsilon 
 <!--
 **brandoncalkins/brandoncalkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
