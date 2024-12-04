@@ -1,5 +1,15 @@
-## Hi there 👋
+# Brandon Nguyen-Calkins
+*Technical writer, editor, and designer*
+---
+Hello and welcome to my GitHub. I have organized my projects in this repo to highlight my skills as a technical writer. Because sure, technical writing is a broad and confusing term. Please come back and browse through some of my projects when I update this repo!
 
+
+## Table of Contents
+- [Copyediting at Epsilon](#copyediting-at-epsilon)
+- [Link 2](#link2)
+
+- ## Copyediting at Epsilon
+- My role at Epsilon 
 <!--
 **brandoncalkins/brandoncalkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
