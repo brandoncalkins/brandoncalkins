@@ -5,10 +5,12 @@ Hello and welcome to my GitHub. I have organized my projects in this repo to hig
 
 
 ## Table of Contents
-- [Copyediting at Epsilon](#copyediting-at-epsilon)
-- [Link 2](#link2)
+- [Infrastructural and Architectural Systems](#infrastructural-and-architectural-systems)
+- [Copyediting](#copyediting)
 
-## Copyediting at Epsilon
+## Infrastructural and Architectural Systems
+
+## Copyediting
 My role at Epsilon 
 <!--
 **brandoncalkins/brandoncalkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
