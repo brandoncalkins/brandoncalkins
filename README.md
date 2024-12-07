@@ -14,7 +14,7 @@ I've made, improved, and maintained several projects with the largest lense.
 ### Implementing Documentation Standards
 This will detail how I implemented documentation standards to all proprietary documents for Epsilon.
 ### Updating Copyediting Guidelines API
-This will detail how I implemented Microsoft Lists to structure a organized table of guidelines.
+This will detail how I implemented Microsoft Lists to structure an organized table of guidelines.
 
 ## Editing and Writing
 Super!
